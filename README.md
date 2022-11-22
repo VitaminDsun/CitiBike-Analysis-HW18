@@ -1,8 +1,10 @@
 # CitiBike-Analysis-HW18
 Tableau homework 18
 # Unit 18 Homework: Citi Bike Analytics
+![citi-bike-station-bikes](https://user-images.githubusercontent.com/93777016/203441040-769f2aa7-f9fc-4932-b8c8-57c397b50526.jpg)
 
 ## Before You Begin
+![Uploading citi-bike-station-bikes.jpg…]()
 
 * Save this assignment to your Tableau Public account rather than to a GitHub repo. 
 
