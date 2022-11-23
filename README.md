@@ -36,6 +36,3 @@ and lastly the number of customers that are subscribed is higher, Than I was exp
 # Unit 18 Homework: Citi Bike Analytics
 ![citi-bike-station-bikes](https://user-images.githubusercontent.com/93777016/203441040-769f2aa7-f9fc-4932-b8c8-57c397b50526.jpg)
 
-![Uploading citi-bike-station-bikes.jpg…]()
-
-
