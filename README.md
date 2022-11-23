@@ -24,6 +24,15 @@ I was also able to see that there are more male riders, then women riders in the
 
 and lastly the number of customers that are subscribed is higher, Than I was expecting but it makes sense that once you try it once you are more . likely to subscribe to the service so that will always be increasing, and the number of new customers will be always going down.
 
+
+![Screenshot 2022-11-22 215248](https://user-images.githubusercontent.com/93777016/203467594-09639c25-5e46-4c39-9bbb-515402af564a.png)
+
+![Screenshot 2022-11-22 215315](https://user-images.githubusercontent.com/93777016/203467597-788d069f-7590-42a5-8f3e-98fc76e9a086.png)
+
+![Screenshot 2022-11-22 215401](https://user-images.githubusercontent.com/93777016/203467601-a988d7a2-38fb-424f-94d5-72895eb8af03.png)
+
+![Screenshot 2022-11-22 215424](https://user-images.githubusercontent.com/93777016/203467618-d5cd1f93-c36f-4bde-8470-1de24a248c2b.png)
+
 # Unit 18 Homework: Citi Bike Analytics
 ![citi-bike-station-bikes](https://user-images.githubusercontent.com/93777016/203441040-769f2aa7-f9fc-4932-b8c8-57c397b50526.jpg)
 
